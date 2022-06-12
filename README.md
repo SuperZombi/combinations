@@ -2,11 +2,11 @@
 
 Sometimes you need to get all combinations where there is a specific list of members for each positions.
 
+<img src="images/image.jpg">
+
 For example, we need to make combinations where the *first* position can only be `1 or 2`, and the *second* only `3 or 4`.
 
 We expect numbers such as `13`, `14`, `23` and `24` in the answer.
-
-<img src="images/image.jpg">
 
 The function takes an array, inside which the possible elements should be placed in positions.
 
