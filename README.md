@@ -23,3 +23,8 @@ array = [ ["A", "B"], ["C", "D", "E"], ["F", "G"] ]
 
 Out >> ['ACF', 'ACG', 'ADF', 'ADG', 'AEF', 'AEG', 'BCF', 'BCG', 'BDF', 'BDG', 'BEF', 'BEG']
 ```
+```python
+array = [ ["A1 ", "A2 "], ["B1 ", "B2 "], ["C1 ", "C2 "] ]
+
+Out >> ['A1 B1 C1 ', 'A1 B1 C2 ', 'A1 B2 C1 ', 'A1 B2 C2 ', 'A2 B1 C1 ', 'A2 B1 C2 ', 'A2 B2 C1 ', 'A2 B2 C2 ']
+```
