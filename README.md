@@ -1,2 +1,1 @@
-# combinations
-Combinations algorithm with specific position
+# Combinations algorithm with specific position
